@@ -1,0 +1,9 @@
+synchrounous Code Demo: https://codepen.io/zenius/pen/qvGdwK
+callstack demo: https://codepen.io/zenius/pen/ZPNbzy
+event loop demo: https://codepen.io/zenius/pen/RdmWwm
+callback demo: https://codepen.io/zenius/pen/bZyVdE
+callback hell demo: https://codepen.io/zenius/pen/VNZXxx
+promise demo: https://codepen.io/zenius/pen/QPLmBw
+chaining promise demo: https://codepen.io/zenius/pen/YMKajj
+async/await demo: https://codepen.io/zenius/pen/GLKxYz
+
